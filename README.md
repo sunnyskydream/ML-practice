@@ -1,16 +1,16 @@
 # ML-practice
-1. Supervised Learning
-  A. Multiple Linear Regression
-  B. Logistic Regression
-  C. k-Nearest Neighbors (kNN)
-  D. Decision Tree
-  E. Support Vector Machine (SVM)
-2. Unsupervised Learning
-  A. Cluster Analysis (k-means)
-  B. Principal Component Analysis
-  C. Basket Analysis
-3. Recommendation System
-  A. Content Based Filtering
-  B. Collaborative Filtering 
-      a. Memory-Based: User-User Similarity, Item-Item Similarity
-      b. Model-Based:k-Nearest Neighbors(KNN), Matrix Facorization: Singular Value Decomposition (SVD)
+1. Supervised Learning<br/>
+  A. Multiple Linear Regression<br/>
+  B. Logistic Regression<br/>
+  C. k-Nearest Neighbors (kNN)<br/>
+  D. Decision Tree<br/>
+  E. Support Vector Machine (SVM)<br/>
+2. Unsupervised Learning<br/>
+  A. Cluster Analysis (k-means)<br/>
+  B. Principal Component Analysis<br/>
+  C. Basket Analysis<br/>
+3. Recommendation System<br/>
+  A. Content Based Filtering<br/>
+  B. Collaborative Filtering <br/>
+      <BLOCKQUOTE>a. Memory-Based: User-User Similarity, Item-Item Similarity<br/>
+      b. Model-Based:k-Nearest Neighbors(KNN), Matrix Facorization: Singular Value Decomposition (SVD)<br/>
