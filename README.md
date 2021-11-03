@@ -1,9 +1,9 @@
 # ML-practice
 Self practice based on <a href="https://www.books.com.tw/products/0010859473">this book</a>
 1. Supervised Learning<br/>
-  A. Multiple Linear Regression - with regularization: Lasso, Ridge (.isin([?], .assign(price = pd.to_numeric(auto.price))<br/>
-  B. Logistic Regression - with normalization, standardization (.map)<br/>
-  C. k-Nearest Neighbors (kNN)<br/>
+  A. Multiple Linear Regression(package: LinearRegression,Ridge,KNeighborsRegressor) - with regularization: Lasso, Ridge (.isin([?], .assign(price = pd.to_numeric(auto.price))<br/>
+  B. Logistic Regression(package: LogisticRegression) - with normalization, standardization (.map(lambda x:1 if x == '>50K' else 0)<br/>
+  C. k-Nearest Neighbors (kNN)(package: KNeighborsClassifier)<br/>
   D. Decision Tree<br/>
   E. Support Vector Machine (SVM)<br/>
 2. Unsupervised Learning<br/>
