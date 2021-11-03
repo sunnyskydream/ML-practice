@@ -1,4 +1,5 @@
 # ML-practice
+Self practice based on <a href="https://www.books.com.tw/products/0010859473">this book</a>
 1. Supervised Learning<br/>
   A. Multiple Linear Regression<br/>
   B. Logistic Regression<br/>
