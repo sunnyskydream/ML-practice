@@ -30,7 +30,17 @@ Self practice based on <a href="https://www.books.com.tw/products/0010859473">th
     </ul>
   </p>
 </div>
-<p>1.4. Decision Tree<br/><p/>
+<div>
+  <p>1.4. Decision Tree<br/><p/>
+     <ul>
+      <li>one-hot encoding/pd.get_dummies(mushroom[['gill-color']])</li>
+      <li>flag target 0/1: mushroom_dummy['flg'] = mushroom['classes'].map(lambda x:1 if x =='p' else 0)</li>
+      <li>entropy, information gain</li>
+      <li>from sklearn.tree import DecisionTreeClassifier</li>
+      <li>import graphviz, pydotplus, tree</li>
+     </ul>
+  </p>
+</div>
    <p>1.5. Support Vector Machine (SVM)
     <ul>
       <li>from sklearn.svm import LinearSVC</li>
