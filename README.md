@@ -18,7 +18,7 @@ Self practice based on <a href="https://www.books.com.tw/products/0010859473">th
     <ul>
       <li>from sklearn.linear_model import LogisticRegression</li>
       <li>data manipulation:adult['fin_flg'] = adult['flg-50K'].map(lambda x:1 if x == ' >50K' else 0)</li>
-      <li>normalization: from sklearn.preprocessing import </li>
+      <li>normalization: from sklearn.preprocessing import StandardScaler </li>
        <ul/>
   </p>
 </div>
