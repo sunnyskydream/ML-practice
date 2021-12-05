@@ -65,7 +65,7 @@ Self practice based on <a href="https://www.books.com.tw/products/0010859473">th
   </p> 
 <p><a href="https://github.com/sunnyskydream/ML-practice/blob/main/2_3_Unsupervised_Basket_Analysis.ipynb">2.3 Basket Analysis (Association Rule, application in Recommendation System)</a><br/> 
       2.3.1 Content Based Filtering<br/>
-      2.3.2 Collaborative Filtering <br/>
+      <a href="https://ithelp.ithome.com.tw/articles/10219511">2.3.2 Collaborative Filtering</a><br/>
       <blockquote>a. Memory-Based: User-User Similarity, Item-Item Similarity<br/>  
         b. Model-Based:k-Nearest Neighbors(KNN), Matrix Facorization: Singular Value Decomposition (SVD)</blockquote><br/>
 <p>3.0 <a href="https://xijunlee.github.io/2017/06/03/%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/">Ensemble: Bagging, Boosting, Stacking</a><br/><p/>
