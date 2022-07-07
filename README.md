@@ -63,12 +63,20 @@ Self practice based on <a href="https://www.books.com.tw/products/0010859473">th
     <li>from sklearn.decomposition import PCA</li>
   </ul>
   </p> 
-<p><a href="https://github.com/sunnyskydream/ML-practice/blob/main/2_3_Unsupervised_Basket_Analysis.ipynb">2.3 Basket Analysis (Association Rule, application in Recommendation System)</a><br/> 
+<p><strong>Recommendation System</strong><br/>
+  item-item: association rule<br/>
+  user-user: similarity distance- cosine, euclidean,manhattan/Jaccard similarity)=> K-means, KNN<br/>
+  user-item: Matrix Facorization: Singular Value Decomposition (SVD)
+  <a href="[https://github.com/sunnyskydream/ML-practice/blob/main/2_3_Unsupervised_Basket_Analysis.ipynb](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/45530.pdf)">deep learning</a>
+<a href="https://github.com/sunnyskydream/ML-practice/blob/main/2_3_Unsupervised_Basket_Analysis.ipynb">2.3 Basket Analysis (Association Rule)</a><br/> 
       2.3.1 Content Based Filtering<br/>
       <a href="https://ithelp.ithome.com.tw/articles/10219511">2.3.2 Collaborative Filtering</a><br/>
       <blockquote>a. Memory-Based: User-User Similarity, Item-Item Similarity<br/>  
-        b. Model-Based:k-Nearest Neighbors(KNN), Matrix Facorization: Singular Value Decomposition (SVD)</blockquote><br/>
+        b. Model-Based:k-Nearest Neighbors(KNN), Matrix Facorization: Singular Value Decomposition (SVD)</blockquote>
+       <a href="https://ithelp.ithome.com.tw/articles/10220962">2.3.3 Hybrid</a>
+</p> 
 <p>3.0 <a href="https://xijunlee.github.io/2017/06/03/%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/">Ensemble: Bagging, Boosting, Stacking</a><br/><p/>
+<a href="https://github.com/vsmolyakov/experiments_with_python/blob/master/chp01/ensemble_methods.ipynb">other reference</a><br/>
 <p>3.1 Bagging: Random Forest<br/><p/>
 <p>3.2 Booosting: AdaBoost (adaptive Boosting), GBDT (Gradient Boosting Decision Tree), XGBoost<p/></div>
   
