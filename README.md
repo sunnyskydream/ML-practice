@@ -79,4 +79,10 @@ Self practice based on <a href="https://www.books.com.tw/products/0010859473">th
 <a href="https://github.com/vsmolyakov/experiments_with_python/blob/master/chp01/ensemble_methods.ipynb">other reference</a><br/>
 <p>3.1 Bagging: Random Forest<br/><p/>
 <p>3.2 Booosting: AdaBoost (adaptive Boosting), GBDT (Gradient Boosting Decision Tree), XGBoost<p/></div>
+
+<p>4.0 Deep Learning Resources<br/><p/>
+<p><a href="https://medium.com/@arlen.mg.lu/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E8%AC%9B%E4%B8%AD%E6%96%87-gradient-descent-b2a658815c72">Gradient Descent Explained</a><br/><p/>
+<p><a href="https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49">Machine Learning (Hung-yi Lee, NTU)</a><br/><p/>
+
+
   
